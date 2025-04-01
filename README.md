@@ -88,10 +88,10 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineer** and
 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate. 😊
 
 <!-- URL's for GitHub Activity -->
-[Lang URL]: https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramHande&layout=compact&theme=vue-dark&hide_border=true&show_icons=true
-[Stat URL]: https://github-readme-stats.vercel.app/api?username=AbhiramHande&show_icons=true&theme=vue-dark&hide_border=true
-[Streak URL]: https://streak-stats.demolab.com/?user=AbhiramHande&theme=vue-dark&hide_border=true
-[Activity URL]: https://github-readme-activity-graph.vercel.app/graph?username=AbhiramHande&theme=tokyo-night&hide_border=true
+[Lang URL]: https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramHande&layout=compact&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10&exclude_repo=manim-Infinity
+[Stat URL]: https://github-readme-stats.vercel.app/api?username=AbhiramHande&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10
+[Streak URL]: https://streak-stats.demolab.com/?user=AbhiramHande&theme=vue-dark&hide_border=true&border_radius=10
+[Activity URL]: https://github-readme-activity-graph.vercel.app/graph?username=AbhiramHande&theme=tokyo-night&hide_border=true&border_radius=10
 
 <!-- Skills URL -->
 [C]: https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white
