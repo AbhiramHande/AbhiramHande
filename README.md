@@ -46,6 +46,10 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineer** and
 
 ### **Tools**
 ![Git][Git]
+![CUDA][CUDA]
+![OpenGL][OpenGL]
+![OpenMP][OpenMP]
+![MPI][MPI]
 ![Blender][Blender]
 ![OpenCV][Opencv]
 
@@ -105,6 +109,10 @@ Thanks for stopping by! Feel free to explore my projects and reach out if you'd 
 [Git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
 [Opencv]: https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white
 [Blender]: https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white
+[OpenMP]: https://img.shields.io/badge/-OpenMP-008080?style=flat-square&logo=openmp&logoColor=white
+[MPI]: https://img.shields.io/badge/-MPI-0057A3?style=flat-square&logo=mpi&logoColor=white
+[CUDA]: https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white
+[OpenGL]: https://img.shields.io/badge/-OpenGL-557C88?style=flat-square&logo=opengl&logoColor=white
 
 <!-- Repo URL -->
 [LinuxShell]: https://github.com/AbhiramHande/LinuxShell
